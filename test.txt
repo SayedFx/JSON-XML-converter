@@ -1,0 +1,38 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<transactions>
+    <transaction>
+        <id>6753322</id>
+        <number region = "Russia">8-900-000-00-00</number>
+        <date day = "12" month = "12" year = "2018"/>
+        <amount currency="EUR">1000.00</amount>
+        <completed>true</completed>
+    </transaction>
+    <transaction>
+        <id>67533244</id>
+        <number region = "Russia">8-900-000-00-01</number>
+        <date day = "13" month = "12" year = "2018"/>
+        <amount currency ="RUB">2000.00</amount>
+        <completed>true</completed>
+    </transaction>
+    <transaction>
+        <id>67533257</id>
+        <number region="Russia">8-900-000-00-02</number>
+        <date day = "14" month = "12" year = "2018"/>
+        <amount currency = "EUR">3000.00</amount>
+        <completed>false</completed>
+    </transaction>
+    <transaction>
+        <id>67533259</id>
+        <number region = "Ukraine">8-900-000-00-03</number>
+        <date day = "15" month = "12" year = "2018"/>
+        <amount currency = "GRN">4000.00</amount>
+        <completed>false</completed>
+    </transaction>
+    <transaction>
+        <id>67533566</id>
+        <number region = "Ukraine">8-900-000-00-04</number>
+        <date day = "16" month = "12" year = "2018"/>
+        <amount currency = "USD">5000.00</amount>
+        <completed>false</completed>
+    </transaction>
+</transactions>
